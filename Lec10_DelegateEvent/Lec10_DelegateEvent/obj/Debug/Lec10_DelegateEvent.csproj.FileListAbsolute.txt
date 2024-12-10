@@ -1,0 +1,11 @@
+C:\Users\Wykładowca\source\repos\Lec10_DelegateEvent\Lec10_DelegateEvent\bin\Debug\Lec10_DelegateEvent.exe.config
+C:\Users\Wykładowca\source\repos\Lec10_DelegateEvent\Lec10_DelegateEvent\bin\Debug\Lec10_DelegateEvent.exe
+C:\Users\Wykładowca\source\repos\Lec10_DelegateEvent\Lec10_DelegateEvent\bin\Debug\Lec10_DelegateEvent.pdb
+C:\Users\Wykładowca\source\repos\Lec10_DelegateEvent\Lec10_DelegateEvent\obj\Debug\Lec10_DelegateEvent.csproj.AssemblyReference.cache
+C:\Users\Wykładowca\source\repos\Lec10_DelegateEvent\Lec10_DelegateEvent\obj\Debug\Lec10_DelegateEvent.Properties.Resources.resources
+C:\Users\Wykładowca\source\repos\Lec10_DelegateEvent\Lec10_DelegateEvent\obj\Debug\Lec10_DelegateEvent.UserControlWave.resources
+C:\Users\Wykładowca\source\repos\Lec10_DelegateEvent\Lec10_DelegateEvent\obj\Debug\Lec10_DelegateEvent.csproj.GenerateResource.cache
+C:\Users\Wykładowca\source\repos\Lec10_DelegateEvent\Lec10_DelegateEvent\obj\Debug\Lec10_DelegateEvent.csproj.CoreCompileInputs.cache
+C:\Users\Wykładowca\source\repos\Lec10_DelegateEvent\Lec10_DelegateEvent\obj\Debug\Lec10_DelegateEvent.exe
+C:\Users\Wykładowca\source\repos\Lec10_DelegateEvent\Lec10_DelegateEvent\obj\Debug\Lec10_DelegateEvent.pdb
+C:\Users\Wykładowca\source\repos\Lec10_DelegateEvent\Lec10_DelegateEvent\obj\Debug\Lec10_DelegateEvent.FormEEG.resources
